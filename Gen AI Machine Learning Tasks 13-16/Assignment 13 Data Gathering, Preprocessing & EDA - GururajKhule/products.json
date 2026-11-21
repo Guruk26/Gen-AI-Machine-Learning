@@ -1,0 +1,106 @@
+[
+    {
+        "product_id": 101,
+        "name": "Sony WH-1000XM5 Wireless Headphones",
+        "category": "Electronics",
+        "price": 399.99,
+        "stock": 42,
+        "rating": 4.8,
+        "tags": [
+            "audio",
+            "bluetooth",
+            "noise-canceling"
+        ]
+    },
+    {
+        "product_id": 102,
+        "name": "Apple MacBook Air M3",
+        "category": "Computers",
+        "price": 1099.0,
+        "stock": 18,
+        "rating": 4.9,
+        "tags": [
+            "laptop",
+            "apple",
+            "m3"
+        ]
+    },
+    {
+        "product_id": 103,
+        "name": "Logitech MX Master 3S Mouse",
+        "category": "Accessories",
+        "price": 99.99,
+        "stock": 85,
+        "rating": 4.7,
+        "tags": [
+            "ergonomic",
+            "wireless",
+            "office"
+        ]
+    },
+    {
+        "product_id": 104,
+        "name": "Samsung 34-Inch Curved Gaming Monitor",
+        "category": "Electronics",
+        "price": 549.5,
+        "stock": 12,
+        "rating": 4.6,
+        "tags": [
+            "display",
+            "gaming",
+            "curved"
+        ]
+    },
+    {
+        "product_id": 105,
+        "name": "Keychron Q1 Pro Mechanical Keyboard",
+        "category": "Accessories",
+        "price": 199.0,
+        "stock": 30,
+        "rating": 4.8,
+        "tags": [
+            "mechanical",
+            "wireless",
+            "custom"
+        ]
+    },
+    {
+        "product_id": 106,
+        "name": "Anker 737 Power Bank (24,000mAh)",
+        "category": "Accessories",
+        "price": 119.99,
+        "stock": 56,
+        "rating": 4.7,
+        "tags": [
+            "charger",
+            "battery",
+            "usb-c"
+        ]
+    },
+    {
+        "product_id": 107,
+        "name": "Dell XPS 15 Laptop (Intel i9)",
+        "category": "Computers",
+        "price": 1899.99,
+        "stock": 9,
+        "rating": 4.5,
+        "tags": [
+            "laptop",
+            "windows",
+            "performance"
+        ]
+    },
+    {
+        "product_id": 108,
+        "name": "Bose QuietComfort 45 Headphones",
+        "category": "Electronics",
+        "price": 329.0,
+        "stock": 25,
+        "rating": 4.6,
+        "tags": [
+            "audio",
+            "anc",
+            "travel"
+        ]
+    }
+]
